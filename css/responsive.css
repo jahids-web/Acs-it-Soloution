@@ -1,0 +1,355 @@
+@media (max-width: 575.98px) {
+
+    .navbar-light .navbar-toggler {
+        color: #fff;
+        background-color: #ff9933
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        margin: 7px;
+    }
+
+    .navbar-light .navbar-brand {
+        color: #ff9933;
+        font-size: 28px;
+        font-weight: 600;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .banner_text h2 {
+        color: #fff;
+        font-size: 30px;
+        font-weight: 600;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    #acs_banner {
+        background-image: url(../images/Banner-img.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 200px 0;
+        position: relative;
+        z-index: 1;
+    }
+
+    .about_text h2 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 23px;
+        font-weight: 600;
+        color: #444;
+        line-height: 24px;
+        padding-bottom: 15px;
+        padding-top: 68px;
+    }
+
+    .about_text p {
+        font-size: 11px;
+        color: #777;
+        line-height: 21px;
+    }
+
+    .products_section_title h2 {
+        font-size: 24px;
+        color: #444;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        margin-top: 100px;
+    }
+
+    .products_col .main-products .icon-box i {
+        font-size: 30px;
+        margin-bottom: 25px;
+        text-align: center;
+        color: #ff9933;
+        transition: all 0.5s linear;
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        padding: 15px;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+    .products_col h3 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 13px;
+        color: #444;
+        font-weight: 600;
+        text-transform: uppercase;
+        padding-bottom: 10px;
+    }
+
+    .products_col p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 11px;
+        color: #444;
+        font-weight: 400;
+        line-height: 20px;
+    }
+
+    .products_col {
+        box-sizing: border-box;
+        border: 1px solid #f1f1f1;
+        border-radius: 5px;
+        padding: 30px 20px 30px;
+        box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
+        -webkit-box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
+        margin: 10px;
+    }
+
+    .service_title h2 {
+        font-size: 24px;
+        color: #444;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        margin-bottom: 60px;
+    }
+
+    .icon i {
+        border-radius: inherit;
+        -moz-box-shadow: 0 0 10px #cccccc;
+        -webkit-box-shadow: 0 0 10px #cccccc;
+        -o-box-shadow: 0 0 10px #cccccc;
+        box-shadow: 0 0 10px #cccccc;
+        color: #ff9933;
+        display: inline-block;
+        font-size: 38px;
+        height: 80px;
+        line-height: 80px;
+        position: relative;
+        text-align: center;
+        width: 80px;
+        margin-bottom: 30px;
+        cursor: pointer;
+    }
+
+    .info h4 {
+        font-size: 17px;
+        color: #444;
+        font-family: 'Open Sans', sans-serif;
+        padding-bottom: 10px;
+        font-weight: 500;
+    }
+
+    .info p {
+        color: #222;
+        line-height: 24px;
+        margin-bottom: 30px;
+        font-size: 12px;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .all_txt {
+        margin: 0 15px;
+    }
+
+    .fot_bot p {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        color: #fff;
+        font-size: 13px;
+        margin-top: 30px;
+    }
+
+    /*==================================*/
+    /*abaut_part_start*/
+    .pages_banner_text h3 {
+        font-size: 27px;
+        color: #ff9933;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    }
+
+    #pages_banner {
+        background-image: url(../images/page.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 250px 0;
+        position: relative;
+        z-index: 1;
+    }
+
+    .about_text p {
+        font-size: 11px;
+        color: #777;
+        line-height: 21px;
+    }
+
+    .discript h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 25px;
+        color: #444;
+        margin-bottom: 30px;
+    }
+
+    .discript p {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        color: #222;
+        font-size: 12px;
+        line-height: 30px;
+        margin-bottom: 52px;
+    }
+
+    /*abaut_part_end*/
+
+}
+
+/*320-end*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-light .navbar-toggler {
+        color: #fff;
+        background-color: #ff9933
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        margin: 7px;
+    }
+
+    .namber p {
+        color: #fff;
+        background-color: #ff9933;
+        padding: 15px 60px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+        clip-path: polygon(10% 0, 100% 0, 100% 100%, 0% 100%);
+        text-align: center;
+    }
+
+    .products_col {
+        box-sizing: border-box;
+        border: 1px solid #f1f1f1;
+        border-radius: 5px;
+        padding: 30px 20px 30px;
+        box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
+        -webkit-box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
+        margin: 10px 60px;
+    }
+
+}
+
+/*2-end*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-light .navbar-toggler {
+        color: #fff;
+        background-color: #ff9933
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        margin: 7px;
+    }
+
+    .namber p {
+        color: #fff;
+        background-color: #ff9933;
+        padding: 15px 60px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+        clip-path: polygon(10% 0, 100% 0, 100% 100%, 0% 100%);
+        text-align: center;
+    }
+
+    .about_text p {
+        font-size: 11px;
+        color: #777;
+        line-height: 24px;
+    }
+
+    .products_section_title h2 {
+        font-size: 30px;
+        color: #444;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        margin-top: 100px;
+    }
+
+    .products_col .main-products .icon-box i {
+        font-size: 36px;
+        margin-bottom: 25px;
+        text-align: center;
+        color: #ff9933;
+        transition: all 0.5s linear;
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        padding: 15px;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+    .products_col h3 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 11px;
+        color: #444;
+        font-weight: 700;
+        text-transform: uppercase;
+        padding-bottom: 10px;
+    }
+
+    .products_col p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 8px;
+        color: #444;
+        font-weight: 500;
+        line-height: 20px;
+    }
+
+    .icon i {
+        border-radius: inherit;
+        -moz-box-shadow: 0 0 10px #cccccc;
+        -webkit-box-shadow: 0 0 10px #cccccc;
+        -o-box-shadow: 0 0 10px #cccccc;
+        box-shadow: 0 0 10px #cccccc;
+        color: #ff9933;
+        display: inline-block;
+        font-size: 40px;
+        height: 80px;
+        line-height: 80px;
+        position: relative;
+        text-align: center;
+        width: 80px;
+        margin-bottom: 30px;
+        cursor: pointer;
+    }
+
+    .info h4 {
+        font-size: 17px;
+        color: #444;
+        font-family: 'Open Sans', sans-serif;
+        padding-bottom: 10px;
+        font-weight: 500;
+    }
+
+    .info p {
+        color: #222;
+        line-height: 24px;
+        margin-bottom: 30px;
+        font-size: 11px;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .video {
+        margin-top: 100px;
+    }
+
+
+}
+
+/*3-end*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    ...
+}
+
+/*4*/
+@media (min-width: 1200px) {
+    ...
+}
+
+/*5*/
