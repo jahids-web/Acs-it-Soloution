@@ -411,7 +411,7 @@ ol {
 }
 
 .fot_pad {
-    margin-left: 40px;
+    margin-left: 0;
 }
 
 .fot_top h2 {
@@ -443,13 +443,13 @@ ol {
     font-weight: 400;
     color: #fff;
     font-size: 12px;
-    margin: 4px 0 0 -40px;
+    /*! margin: 4px 0 0 -40px; */
 }
 
-}
+
 
 .fot_pad {
-    margin: 0 0 5px -49px;
+    /*! margin: 0 0 5px -49px; */
 }
 
 .fot_bot {
